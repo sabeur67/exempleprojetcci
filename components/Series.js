@@ -1,6 +1,6 @@
 
 import React, { Component } from 'react';
-import { ScrollView,Platform, StyleSheet, Text, View, FlatList, Image } from 'react-native';
+import { ScrollView, View, FlatList } from 'react-native';
 import CustomMovieSerieGames_ListItem from '../composants/CustomMovieSerieGames_ListItem';
 import { series } from '../ressources/database/mediasData';
 import Search from '../composants/Search.js';

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { WebView, ScrollView, View, Text, Image, TouchableOpacity, Alert } from 'react-native';
+import { WebView,  View, Text, Image, TouchableOpacity } from 'react-native';
 import Rating from '../composants/Rating'
 import { movies,series,games } from '../ressources/database/mediasData';
 

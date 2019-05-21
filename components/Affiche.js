@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Text, ImageBackground, StyleSheet, Image, ScrollView } from 'react-native';
+import {  ImageBackground } from 'react-native';
 
 
 export default class Affiche extends Component {

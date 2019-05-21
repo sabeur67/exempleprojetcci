@@ -1,7 +1,6 @@
 import React from 'react';
 import { View, Button, TextInput, Alert,FlatList } from 'react-native';
-import { movies, series, games } from '../ressources/database/mediasData';
-import {CustomMovieSerieGames_ListItem} from '../composants/CustomMovieSerieGames_ListItem'
+
 
 class Search extends React.Component {
 
