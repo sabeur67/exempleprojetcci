@@ -1,0 +1,18 @@
+
+utilisation methdoe web api :
+
+https://www.omdbapi.com/
+
+par id :
+
+http://omdbapi.com/?i=tt3896198&apikey=4f54ddf3
+
+par recherche texte :
+
+http://omdbapi.com/?type=movie&s=star%20wars&apikey=4f54ddf3
+
+
+
+Appel à partir de react native :
+Tutoriel methode fetch() :
+https://facebook.github.io/react-native/docs/network
