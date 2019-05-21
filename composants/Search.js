@@ -17,17 +17,11 @@ class Search extends React.Component {
 
     // _searchTextInputChanged(text) {
     //     this.searchedText = text ;
-    //     Alert.alert(this.searchedText )
+    //     // TODO : filtre liste
+    //     // https://aboutreact.com/react-native-search-bar-filter-on-listview/
     // }
 
-    // test_affiche(){
-        
-    //      Alert.alert('bb');
-
-    //   }
-
-    // onPress={this.test_affiche}
-    // onChangeText={(text) => this._searchTextInputChanged(text)}
+     // onChangeText={(text) => this._searchTextInputChanged(text)}
 
  
     render() {
